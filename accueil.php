@@ -43,7 +43,7 @@
 				<br>
 				<br>
 				<h1>Git<span>Hub</span></h1>
-				<h3><span>14  Décembre 2021</span></h3>
+				<h3><span>Yacine le bg</span></h3>
 
 				<!--<div class="btn">
 					<button type="button" class="primary-btn">Lire...</button>
